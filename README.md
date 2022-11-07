@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Davidmide02/fylo-data-storage-component-master.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/Davidmide02/fylo-data-storage-component-master.git)
+- Live Site URL: [Live site URL here]([https://your-live-site-url.com](https://davidmide02.github.io/fylo-data-storage-component-master/))
 
 ## My process
 - Analysis the layout
